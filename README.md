@@ -14,6 +14,8 @@
 - The nested JSON structure was different for assets vs liabilities vs equity. My code should show all categories as long as it follows the primary hierarchical json structure. 
 
 ○ What you would do next if you had more time
-I would figure out how to automate the JSON parsing using some kind of cursor. I almost missed the last level of asset data (bronze, silver, gold, platinum cards) and I would want to ensure I have logic to ensure that doesn’t happen. 
+- I would figure out how to automate the JSON parsing using some kind of cursor or recursive query. I almost missed the last level of asset data (bronze, silver, gold, platinum cards) and I would want to have logic that ensures that doesn’t happen again. 
 
-In order to run my validation script, you should open the SQL file and run each of the validation queries at the bottom of the script (commented section). Thanks! 
+In order to run my validation script, you should open the SQL file and run each of the validation queries at the bottom of the script (commented section). 
+
+Thanks! 
