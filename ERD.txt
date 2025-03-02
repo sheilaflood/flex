@@ -1,0 +1,36 @@
+-- Assets 
+    -- Current Assets 
+        -- Bank Accounts 
+            -- Flex Cash
+            -- Flex 2761
+        -- Accounts Receivable  
+            -- Accounts Receivable  
+        -- Other Current Assets 
+            -- Payments to Deposit 
+            -- Prepaid Expenses 
+        -- Bank Accounts 
+            -- Flex Checking
+    -- Fixed Assets
+        -- Proprty, Plant, and Equipment 
+            -- Office Equipment
+            -- Furniture 
+            -- Computer and Accessories 
+-- Liabilities 
+    -- Current Liabilities 
+        -- Credit Cards 
+            -- 2004 Credit Card
+                -- Flex Bronze Card
+                -- Flex Silver Card
+                -- Flex Gold Card
+                -- Flex Platinum Card
+        -- Accounts Payable 
+            -- Accounts Payable 
+                -- Payable to Character
+    -- Long-Term Liabilities 
+        -- Settle Loans Payable        
+-- Equity 
+    -- Owners Equity
+        -- Owners Equity 
+    -- Retained Earnings 
+    -- Balance Adjustments 
+    -- Net Income 
