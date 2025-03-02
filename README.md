@@ -16,7 +16,7 @@
 
 ○ What you would do next if you had more time
 - I would figure out how to automate the JSON parsing using some kind of cursor or recursive query. I almost missed the last level of asset data (bronze, silver, gold, platinum cards) and I would want to have logic that ensures that never happens.
-- I would find a cleaner/quicker way to valiate the results.
+- I would find a cleaner/quicker way to valiate the results (instead of 4 queries) and look into whey the QC Error message is showing a false positive sometimes. 
 - Develop a better ERG diagaram - it's not really ERG but it at least shows the hierarchy. 
 
 In order to run my validation script, you can open the SQL file (query.txt) and run each of the validation queries at the bottom of the script. 
