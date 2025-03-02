@@ -11,7 +11,7 @@
 - All currencies are the same
 
 ○ Any issues or inconsistencies you found in the data
-- I added a semicolon to the JSON to get the code to run
+- I added an apostrophe to the JSON to get the code to run
 - The nested JSON structure was different for assets vs liabilities vs equity. My code should show all categories as long as it follows the primary hierarchical json structure. 
 
 ○ What you would do next if you had more time
@@ -19,6 +19,6 @@
 - I would find a cleaner/quicker way to valiate the results.
 - Develop a better ERG diagaram - it's not really ERG but it at least shows the hierarchy. 
 
-In order to run my validation script, you can open the SQL file (query.tx) and run each of the validation queries at the bottom of the script. 
+In order to run my validation script, you can open the SQL file (query.txt) and run each of the validation queries at the bottom of the script. 
 
 Thanks! 
